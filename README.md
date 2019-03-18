@@ -1,0 +1,2 @@
+# Bastard-HTB
+Hackthebox Notes
